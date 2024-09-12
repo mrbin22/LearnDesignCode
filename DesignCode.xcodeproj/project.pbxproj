@@ -12,6 +12,7 @@
 		7F3970662C92DAAF00360267 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F3970652C92DAAF00360267 /* Assets.xcassets */; };
 		7F3970692C92DAAF00360267 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F3970682C92DAAF00360267 /* Preview Assets.xcassets */; };
 		7F3970702C92DADE00360267 /* PhaseAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F39706F2C92DADE00360267 /* PhaseAnimator.swift */; };
+		7F3970722C9317FA00360267 /* KeyFrameAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3970712C9317FA00360267 /* KeyFrameAnimator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		7F3970652C92DAAF00360267 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F3970682C92DAAF00360267 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7F39706F2C92DADE00360267 /* PhaseAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhaseAnimator.swift; sourceTree = "<group>"; };
+		7F3970712C9317FA00360267 /* KeyFrameAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyFrameAnimator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				7F3970612C92DAAD00360267 /* DesignCodeApp.swift */,
 				7F3970632C92DAAD00360267 /* RadialGradientButtonAnimation.swift */,
 				7F39706F2C92DADE00360267 /* PhaseAnimator.swift */,
+				7F3970712C9317FA00360267 /* KeyFrameAnimator.swift */,
 				7F3970652C92DAAF00360267 /* Assets.xcassets */,
 				7F3970672C92DAAF00360267 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F3970722C9317FA00360267 /* KeyFrameAnimator.swift in Sources */,
 				7F3970702C92DADE00360267 /* PhaseAnimator.swift in Sources */,
 				7F3970642C92DAAD00360267 /* RadialGradientButtonAnimation.swift in Sources */,
 				7F3970622C92DAAD00360267 /* DesignCodeApp.swift in Sources */,
