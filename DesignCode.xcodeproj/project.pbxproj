@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7F3970622C92DAAD00360267 /* DesignCodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3970612C92DAAD00360267 /* DesignCodeApp.swift */; };
-		7F3970642C92DAAD00360267 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3970632C92DAAD00360267 /* ContentView.swift */; };
+		7F3970642C92DAAD00360267 /* RadialGradientButtonAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3970632C92DAAD00360267 /* RadialGradientButtonAnimation.swift */; };
 		7F3970662C92DAAF00360267 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F3970652C92DAAF00360267 /* Assets.xcassets */; };
 		7F3970692C92DAAF00360267 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F3970682C92DAAF00360267 /* Preview Assets.xcassets */; };
 		7F3970702C92DADE00360267 /* PhaseAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F39706F2C92DADE00360267 /* PhaseAnimator.swift */; };
@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		7F39705E2C92DAAD00360267 /* DesignCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesignCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F3970612C92DAAD00360267 /* DesignCodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignCodeApp.swift; sourceTree = "<group>"; };
-		7F3970632C92DAAD00360267 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7F3970632C92DAAD00360267 /* RadialGradientButtonAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadialGradientButtonAnimation.swift; sourceTree = "<group>"; };
 		7F3970652C92DAAF00360267 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F3970682C92DAAF00360267 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7F39706F2C92DADE00360267 /* PhaseAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhaseAnimator.swift; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				7F3970612C92DAAD00360267 /* DesignCodeApp.swift */,
-				7F3970632C92DAAD00360267 /* ContentView.swift */,
+				7F3970632C92DAAD00360267 /* RadialGradientButtonAnimation.swift */,
 				7F39706F2C92DADE00360267 /* PhaseAnimator.swift */,
 				7F3970652C92DAAF00360267 /* Assets.xcassets */,
 				7F3970672C92DAAF00360267 /* Preview Content */,
@@ -141,7 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F3970702C92DADE00360267 /* PhaseAnimator.swift in Sources */,
-				7F3970642C92DAAD00360267 /* ContentView.swift in Sources */,
+				7F3970642C92DAAD00360267 /* RadialGradientButtonAnimation.swift in Sources */,
 				7F3970622C92DAAD00360267 /* DesignCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

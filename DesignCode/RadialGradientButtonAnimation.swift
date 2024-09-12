@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct RadialGradientButtonAnimation: View {
     @State var appear = false
     var body: some View {
         RoundedRectangle(cornerRadius: 30)
@@ -42,5 +42,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    RadialGradientButtonAnimation()
 }
